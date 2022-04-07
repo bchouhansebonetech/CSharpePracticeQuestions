@@ -1,0 +1,8 @@
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\PracticePrograms\PracticePrograms\bin\Debug\PracticePrograms.exe.config
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\PracticePrograms\PracticePrograms\bin\Debug\PracticePrograms.exe
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\PracticePrograms\PracticePrograms\bin\Debug\PracticePrograms.pdb
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\PracticePrograms\PracticePrograms\obj\Debug\PracticePrograms.csproj.AssemblyReference.cache
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\PracticePrograms\PracticePrograms\obj\Debug\PracticePrograms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\PracticePrograms\PracticePrograms\obj\Debug\PracticePrograms.csproj.CoreCompileInputs.cache
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\PracticePrograms\PracticePrograms\obj\Debug\PracticePrograms.exe
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\PracticePrograms\PracticePrograms\obj\Debug\PracticePrograms.pdb
